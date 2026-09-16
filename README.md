@@ -1,6 +1,6 @@
 # Mariem Sayed Ramadan
 
-###Backend & Full-Stack Developer | ASP.NET Core & Python | REST APIs | SQL | AI Integration
+### Backend & Full-Stack Developer | ASP.NET Core & Python | REST APIs | SQL | AI Integration
 
 I build backend systems, RESTful APIs, and full-stack applications with a focus on clean architecture, reliable data handling, and practical AI integration.
 
