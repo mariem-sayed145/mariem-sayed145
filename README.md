@@ -127,11 +127,4 @@ Led stakeholder communication, outreach initiatives, event coordination, and cro
 
 [LinkedIn](https://www.linkedin.com/in/mariem-sayed/) · [GitHub](https://github.com/mariem-sayed145)
 
----
-
-## GitHub Overview
-
-![Mariem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariem-sayed145\&show_icons=true\&hide_border=true\&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariem-sayed145\&layout=compact\&hide_border=true)
 
