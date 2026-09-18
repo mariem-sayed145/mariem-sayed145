@@ -91,25 +91,6 @@ A full-stack financial management application for expense tracking, budgeting, s
 
 ---
 
-## Experience
-
-**Advanced .NET Backend Developer Intern — Code Plus**
-2026 – Present
-
-Working with advanced ASP.NET Core Web API, software architecture, CQRS, MediatR, Repository & Unit of Work, background processing, caching, resilience, observability, Docker, CI/CD, and production-oriented backend development.
-
-**AI Member — Data Street**
-2026 – Present
-
-Collaborating on practical AI projects, technical learning content, and real-world applications of Artificial Intelligence.
-
-**Head of External Relations — DSC Egypt, Cairo Chapter**
-2025 – 2026
-
-Led stakeholder communication, outreach initiatives, event coordination, and cross-functional collaboration.
-
----
-
 ## Currently Learning
 
 * Advanced ASP.NET Core & Web API
